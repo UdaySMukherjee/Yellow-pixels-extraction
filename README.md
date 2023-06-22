@@ -13,6 +13,7 @@ You can install OpenCV using pip:
 
 ```shell
 pip install opencv-python
+```
 
 Usage
 Clone the repository or download the code files.
