@@ -1,14 +1,17 @@
-Yellow Pixel Extraction and Tracking
+# Yellow Pixel Extraction and Tracking
+
 This Python code allows you to detect and track yellow pixels in an image or video. It utilizes the OpenCV library for image processing and computer vision tasks.
 
-Prerequisites
+## Prerequisites
+
 Make sure you have the following dependencies installed:
 
-Python 3.x
-OpenCV (cv2)
+- Python 3.x
+- OpenCV (cv2)
+
 You can install OpenCV using pip:
 
-Copy code
+```shell
 pip install opencv-python
 
 Usage
