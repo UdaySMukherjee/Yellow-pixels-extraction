@@ -2,7 +2,7 @@
 """
 Created on Fri Nov 18 02:27:09 2022
 
-@author: pc
+@author: Uday
 """
 
 import cv2
